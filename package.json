@@ -1,0 +1,28 @@
+{
+  "name": "react-idangerous-swiper",
+  "version": "0.0.1",
+  "description": "React component that wraps the idangerous swiper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "swiper",
+    "idangerous",
+    "isomorphic"
+  ],
+  "author": "Kenneth van der Werf <kennethwerf@gmail.com> (http://www.github.com/kfwerf)",
+  "license": "MIT",
+  "dependencies": {
+    "iso-swiper": "0.0.1",
+    "object-assign": "^3.0.0",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "css-loader": "^0.15.1",
+    "gulp": "^3.9.0",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.11"
+  }
+}
